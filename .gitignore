@@ -1,0 +1,9 @@
+/TA_2/.env
+/TA_2/coverage
+/TA_2/node_modules
+.DS_Store
+.history
+.idea/
+.vscode/
+
+
